@@ -49,8 +49,8 @@ jobs:
       - name: Check for exposed secrets
         run: |
           echo "Checking for exposed secrets..."
-          # Check for common patterns
-          if grep -r "GITHUB_TOKEN\|BOT_TOKEN\|API_KEY\|SECRET" --include="*.js" --include="*.ts" --include="*.json" .; then
+          # Check for common patterns (exclude .env and example files)
+          if grep -r "GITHUB_TOKEN\|BOT_TOKEN\|API_KEY\|SECRET" --include="*.js" --include="*.ts" --include="*.json" --exclude=".env*" .; then
             echo "⚠️ Possible secrets found in code"
             exit 1
           fi
@@ -69,7 +69,7 @@ jobs:
       - name: Build bot Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./telgram\ bot
+          context: ./telgram bot
           push: false
           tags: t-shop-bot:latest
           cache-from: type=gha

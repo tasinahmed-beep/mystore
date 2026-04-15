@@ -8,8 +8,8 @@ import TelegramBot from "node-telegram-bot-api";
 admin.initializeApp();
 
 // Get environment variables
-const BOT_TOKEN = process.env.BOT_TOKEN || "8733289509:AAEZaj-cnC6Aq6UvDPWYUwY9vXq49jimfv4";
-const OWNER_CHAT_ID = process.env.OWNER_CHAT_ID || "7773751516";
+const BOT_TOKEN = process.env.BOT_TOKEN;
+const OWNER_CHAT_ID = process.env.OWNER_CHAT_ID;
 const GROUP_NAME = process.env.GROUP_NAME || "T Shop Support";
 const STORE_URL = process.env.STORE_URL || "https://tdigitalstore.web.app";
 
