@@ -24,35 +24,44 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Store variables
-STORE_LINK = "https://t.me/tstoredigital25"
+STORE_LINK = "https://t.me/tstoredigital250"
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /start is issued."""
     await update.message.reply_text(
-        f"👋 Welcome to T Store!\n\n"
-        f"🏪 Visit our store: {STORE_LINK}\n\n"
-        f"I'll respond to your messages shortly!"
+        f"👋 <b>Welcome to T Store! 🎉</b>\n\n"
+        f"✨ <b>Amazing digital products & services</b> ✨\n\n"
+        f"🏪 <a href=\"{STORE_LINK}\"><b>👉 VISIT OUR STORE 👈</b></a>\n\n"
+        f"⏱️ I'll respond to your messages shortly!",
+        parse_mode='HTML'
     )
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /help is issued."""
     await update.message.reply_text(
-        f"🤖 T Store Bot\n\n"
-        f"📍 Store: {STORE_LINK}\n\n"
-        f"I'm here to help! Visit our store for updates."
+        f"<b>🤖 T Store Bot</b>\n\n"
+        f"<b>📍 Store Link:</b>\n"
+        f"<a href=\"{STORE_LINK}\"><b>👉 Visit Store</b></a>\n\n"
+        f"✨ Amazing products!\n"
+        f"🚀 Fast & secure checkout\n\n"
+        f"<b>Click the link to explore!</b>",
+        parse_mode='HTML'
     )
 
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Handle incoming messages with auto-reply."""
     await update.message.reply_text(
-        "⏳ <b>Please wait...</b>\n\n"
-        "Thank you for your message! Our team is looking at it.\n\n"
-        f"🏪 <b>In the meantime, visit our store:</b>\n"
-        f"{STORE_LINK}\n\n"
-        "✨ We have amazing products and deals waiting for you!",
+        "⏳ <b>Please wait...</b> 👀\n\n"
+        f"<b>✨ Thank you for reaching out! ✨</b>\n"
+        f"Our team is reviewing your message...\n\n"
+        f"🏪 <b>While you wait, check out our amazing products:</b>\n\n"
+        f"👉 <a href=\"{STORE_LINK}\"><b>SHOP NOW - BEST DEALS! 🎁</b></a>\n\n"
+        f"💎 <b>Fresh products added daily!</b>\n"
+        f"🚀 <b>Fast checkout • Secure payment</b>\n\n"
+        f"⭐ See you in the store! ⭐",
         parse_mode='HTML'
     )
 
