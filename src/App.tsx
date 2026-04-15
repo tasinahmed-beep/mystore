@@ -73,7 +73,7 @@ const products = (rawProducts as any[]).map(p => ({
 
 const CART_KEY = "t-shop-cart";
 const ORDERS_KEY = "t-shop-orders";
-const TELEGRAM_USERNAME = "tstoredigital2508";  // Channel for order checkout link
+const PERSONAL_CHAT = "tstoredigital250";      // Personal chat for order notifications
 const SUPPORT_LINK = "https://t.me/tstoredigital250";  // Support & Questions
 
 const currency = new Intl.NumberFormat("en-BD");
@@ -140,7 +140,7 @@ function buildTelegramCheckoutLink(order: Order) {
     "✅ Please confirm availability.",
   ];
 
-  return `https://t.me/${TELEGRAM_USERNAME}?text=${encodeURIComponent(lines.join("\n"))}`;
+  return `https://t.me/${PERSONAL_CHAT}?text=${encodeURIComponent(lines.join("\n"))}`;
 }
 
 async function sendOrderToBot(order: Order) {
@@ -156,7 +156,7 @@ async function sendOrderToBot(order: Order) {
     },
     body: JSON.stringify({
       storeName: "T Shop",
-      supportUsername: TELEGRAM_USERNAME,
+      personalChat: PERSONAL_CHAT,
       order,
     }),
   });
