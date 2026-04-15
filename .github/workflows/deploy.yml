@@ -52,6 +52,8 @@ jobs:
           target: tdigitalstore
         env:
           FIREBASE_CLI_EXPERIMENTS: webframeworksv2
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          OWNER_CHAT_ID: ${{ secrets.OWNER_CHAT_ID }}
 
       - name: Deployment Summary
         if: github.event_name == 'push'
