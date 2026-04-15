@@ -24,7 +24,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Store variables
-STORE_LINK = "https://t.me/tstoredigital250"
+CHANNEL_LINK = "https://t.me/tstoredigital2508"  # Main store channel
+SUPPORT_LINK = "https://t.me/tstoredigital250"  # Support/personal account
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -32,7 +33,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
         f"👋 <b>Welcome to T Store! 🎉</b>\n\n"
         f"✨ <b>Amazing digital products & services</b> ✨\n\n"
-        f"🏪 <a href=\"{STORE_LINK}\"><b>👉 VISIT OUR STORE 👈</b></a>\n\n"
+        f"📢 <a href=\"{CHANNEL_LINK}\"><b>👉 JOIN OUR CHANNEL 👈</b></a>\n"
+        f"💬 <a href=\"{SUPPORT_LINK}\"><b>Support & Questions</b></a>\n\n"
         f"⏱️ I'll respond to your messages shortly!",
         parse_mode='HTML'
     )
@@ -42,11 +44,12 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
     """Send a message when the command /help is issued."""
     await update.message.reply_text(
         f"<b>🤖 T Store Bot</b>\n\n"
-        f"<b>📍 Store Link:</b>\n"
-        f"<a href=\"{STORE_LINK}\"><b>👉 Visit Store</b></a>\n\n"
+        f"<b>� Store Channel:</b>\n"
+        f"<a href=\"{CHANNEL_LINK}\"><b>👉 Visit Channel</b></a>\n\n"
+        f"<b>💬 Need Support?</b>\n"
+        f"<a href=\"{SUPPORT_LINK}\"><b>Contact Us</b></a>\n\n"
         f"✨ Amazing products!\n"
-        f"🚀 Fast & secure checkout\n\n"
-        f"<b>Click the link to explore!</b>",
+        f"🚀 Fast & secure checkout",
         parse_mode='HTML'
     )
 
@@ -57,11 +60,12 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         "⏳ <b>Please wait...</b> 👀\n\n"
         f"<b>✨ Thank you for reaching out! ✨</b>\n"
         f"Our team is reviewing your message...\n\n"
-        f"🏪 <b>While you wait, check out our amazing products:</b>\n\n"
-        f"👉 <a href=\"{STORE_LINK}\"><b>SHOP NOW - BEST DEALS! 🎁</b></a>\n\n"
+        f"📢 <b>While you wait:</b>\n"
+        f"<a href=\"{CHANNEL_LINK}\"><b>👉 Join Our Channel</b></a>\n"
+        f"<a href=\"{SUPPORT_LINK}\"><b>💬 Support Chat</b></a>\n\n"
         f"💎 <b>Fresh products added daily!</b>\n"
         f"🚀 <b>Fast checkout • Secure payment</b>\n\n"
-        f"⭐ See you in the store! ⭐",
+        f"⭐ See you! ⭐",
         parse_mode='HTML'
     )
 
