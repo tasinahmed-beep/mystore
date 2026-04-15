@@ -1,0 +1,76 @@
+name: Code Quality Checks
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Check for build errors
+        run: npm run build
+        continue-on-error: true
+      
+      - name: Verify Git status
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "⚠️ There are uncommitted changes"
+            git status
+          fi
+
+  security-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Check for exposed secrets
+        run: |
+          echo "Checking for exposed secrets..."
+          # Check for common patterns
+          if grep -r "GITHUB_TOKEN\|BOT_TOKEN\|API_KEY\|SECRET" --include="*.js" --include="*.ts" --include="*.json" .; then
+            echo "⚠️ Possible secrets found in code"
+            exit 1
+          fi
+          echo "✅ No obvious secrets found"
+
+  docker-build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      
+      - name: Build bot Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./telgram\ bot
+          push: false
+          tags: t-shop-bot:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max

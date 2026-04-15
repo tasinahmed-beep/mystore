@@ -1,0 +1,62 @@
+name: Deploy to Firebase
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Build frontend
+        run: npm run build
+      
+      - name: Check build output
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "Build failed: dist directory not created"
+            exit 1
+          fi
+      
+      - name: Deploy to Firebase (only on main branch)
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_novel }}
+          projectId: novel-db4b6
+          channelId: live
+          target: tdigitalstore
+        env:
+          FIREBASE_CLI_EXPERIMENTS: webframeworksv2
+
+      - name: Deployment Summary
+        if: github.event_name == 'push'
+        run: |
+          echo "✅ Deployment completed"
+          echo "Frontend: https://tdigitalstore.web.app"
+          echo "Commit: ${{ github.sha }}"
+          echo "Branch: ${{ github.ref }}"
