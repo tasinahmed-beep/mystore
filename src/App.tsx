@@ -73,7 +73,7 @@ const products = (rawProducts as any[]).map(p => ({
 
 const CART_KEY = "t-shop-cart";
 const ORDERS_KEY = "t-shop-orders";
-const TELEGRAM_USERNAME = "tasinahmed2508";  // For order checkout link
+const TELEGRAM_USERNAME = "tstoredigital2508";  // Channel for order checkout link
 const SUPPORT_LINK = "https://t.me/tstoredigital250";  // Support & Questions
 
 const currency = new Intl.NumberFormat("en-BD");
