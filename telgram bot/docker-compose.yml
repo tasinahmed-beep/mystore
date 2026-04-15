@@ -8,20 +8,7 @@ services:
     container_name: t-shop-telegram-bot
     restart: unless-stopped
     environment:
-      - BOT_TOKEN=${BOT_TOKEN}
-      - OWNER_CHAT_ID=${OWNER_CHAT_ID}
-      - GROUP_NAME=${GROUP_NAME:-T Shop Support}
-      - STORE_URL=${STORE_URL:-https://tdigitalstore.web.app}
-      - PORT=${PORT:-3001}
-      - NODE_ENV=production
-    ports:
-      - "${PORT:-3001}:3001"
-    healthcheck:
-      test: ["CMD", "node", "-e", "require('http').get('http://localhost:3001/health', (r) => {if (r.statusCode !== 200) throw new Error(r.statusCode)})"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 5s
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
     networks:
       - t-shop-network
     logging:

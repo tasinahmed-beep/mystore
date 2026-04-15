@@ -1,40 +1,28 @@
-# 🤖 T Shop Telegram Bot
+# 🤖 T Shop Telegram Bot (Python)
 
-Telegram bot service that sends shop orders automatically and auto-replies to customer messages.
+Python-based Telegram bot service that auto-replies to messages with store visit link.
 
-## Bot Status
-
-✅ **Active & Connected**
-- Bot Name: T Store Digital
-- Bot Username: @TStoreDigitalbot
-- Bot ID: 8733289509
-- Token Status: VERIFIED
+**Bot:** @TStoreDigitalbot | **Token Status:** ✅ VERIFIED & ACTIVE
 
 ## Quick Start
 
-### 1. Get Your Chat ID
+### 1. Install Python Dependencies
 
 ```bash
-node quick-setup.mjs
+pip install -r requirements.txt
 ```
 
-Or manually:
-```bash
-node test-bot-token.mjs
+### 2. Set Environment Variables
+
+Edit `.env.local`:
+```
+TELEGRAM_BOT_TOKEN=8733289509:AAEZaj-cnC6Aq6UvDPWYUwY9vXq49jimfv4
 ```
 
-Then edit `.env.local` and set `OWNER_CHAT_ID`
-
-### 2. Install Dependencies
+### 3. Run Bot Locally
 
 ```bash
-npm install
-```
-
-### 3. Start Bot
-
-```bash
-npm start
+python bot.py
 ```
 
 ## Configuration
@@ -42,12 +30,13 @@ npm start
 ### Environment Variables (`.env.local`)
 
 ```
-BOT_TOKEN=8733289509:AAEZaj-cnC6Aq6UvDPWYUwY9vXq49jimfv4
-OWNER_CHAT_ID=your_chat_id (get with quick-setup.mjs)
-GROUP_NAME=T Shop Support
-STORE_URL=https://tdigitalstore.web.app
-PORT=3001
+TELEGRAM_BOT_TOKEN=your_bot_token_here
 ```
+
+### Store Link
+
+Default store link: `https://t.me/tstoredigital25`
+(Edit this in `bot.py` if needed)
 
 ## Features
 

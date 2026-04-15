@@ -1,40 +1,22 @@
-# Build stage
-FROM node:20-alpine AS builder
+# Use Python 3.11 slim image
+FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY package*.json ./
+# Install curl for health checks
+RUN apt-get update && apt-get install -y --no-install-recommends curl && rm -rf /var/lib/apt/lists/*
 
-RUN npm ci --omit=dev
-
-# Runtime stage
-FROM node:20-alpine
-
-WORKDIR /app
-
-# Install dumb-init for proper signal handling
-RUN apk add --no-cache dumb-init
-
-# Copy node modules from builder
-COPY --from=builder /app/node_modules ./node_modules
+# Copy requirements and install dependencies
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application files
-COPY package.json ./
-COPY server.js ./
+COPY bot.py ./
+COPY .env.local ./
 
 # Create non-root user for security
-RUN addgroup -g 1001 -S nodejs
-RUN adduser -S nodejs -u 1001
-USER nodejs
+RUN useradd -m -u 1001 botuser
+USER botuser
 
-# Expose port (default 3001, can be overridden)
-EXPOSE 3001
-
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-  CMD node -e "require('http').get('http://localhost:' + (process.env.PORT || 3001) + '/health', (r) => {if (r.statusCode !== 200) throw new Error(r.statusCode)})"
-
-# Use dumb-init to handle signals properly
-ENTRYPOINT ["dumb-init", "--"]
-
-CMD ["npm", "start"]
+# Run the bot
+CMD ["python", "bot.py"]
