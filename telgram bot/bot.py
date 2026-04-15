@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-# Load environment variables from .env.local
-load_dotenv('.env.local')
+# Load .env.local if it exists (for local development)
+load_dotenv('.env.local', override=False)
 
 # Enable logging
 logging.basicConfig(
