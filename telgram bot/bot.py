@@ -110,7 +110,8 @@ def main() -> None:
     print("🤖 T STORE AUTO-REPLY BOT (PYTHON)")
     print("="*60)
     print("✅ Bot is running")
-    print(f"📍 Store: {STORE_LINK}")
+    print(f"� Channel: {CHANNEL_LINK}")
+    print(f"💬 Support: {SUPPORT_LINK}")
     print(f"⏳ Listening for messages in your personal account...")
     print("="*60 + "\n")
     
