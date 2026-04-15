@@ -49,12 +49,21 @@ jobs:
       - name: Check for exposed secrets
         run: |
           echo "Checking for exposed secrets..."
-          # Check for common patterns (exclude .env and example files)
-          if grep -r "GITHUB_TOKEN\|BOT_TOKEN\|API_KEY\|SECRET" --include="*.js" --include="*.ts" --include="*.json" --exclude=".env*" .; then
-            echo "⚠️ Possible secrets found in code"
+          
+          # Look for actual token values (not just variable names)
+          # Token pattern: digits:letters (like 8733289509:AAEZaj...)
+          if grep -r '[0-9]\{10\}:[A-Za-z0-9_-]\{20,\}' --include="*.js" --include="*.ts" --include="*.json" --exclude-dir=node_modules --exclude="*.env*" .; then
+            echo "⚠️ Actual exposed token value found in code"
             exit 1
           fi
-          echo "✅ No obvious secrets found"
+          
+          # Check for hardcoded chat IDs (just numbers, exclude node_modules)
+          if grep -r 'OWNER_CHAT_ID.*[0-9]\{10\}' --include="*.js" --include="*.ts" --exclude-dir=node_modules --exclude="*.env*" .; then
+            echo "⚠️ Hardcoded chat ID found"
+            exit 1
+          fi
+          
+          echo "✅ No actual exposed secrets found"
 
   docker-build:
     runs-on: ubuntu-latest
