@@ -61,20 +61,9 @@ jobs:
         run: |
           echo "✅ Docker image built and pushed successfully!"
           echo "Image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
-          echo "Run bot with:"
-          echo "docker run -e BOT_TOKEN=${{ secrets.BOT_TOKEN }} -e OWNER_CHAT_ID=${{ secrets.OWNER_CHAT_ID }} ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
-
-  deploy-to-railway:
-    needs: build-and-push
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    
-    steps:
-      - name: Deploy to Railway
-        uses: railway-app/actions@v1
-        with:
-          token: ${{ secrets.RAILWAY_TOKEN }}
-          service: t-shop-bot
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          OWNER_CHAT_ID: ${{ secrets.OWNER_CHAT_ID }}
+          echo ""
+          echo "🚀 Deploy to ClawCloud:"
+          echo "1. Go to: https://ap-southeast-1.run.claw.cloud/"
+          echo "2. Docker image URL: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
+          echo "3. Add environment variables from CLAW_ENV_CLEAN.txt"
+          echo "4. Click Deploy!"
