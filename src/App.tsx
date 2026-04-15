@@ -73,7 +73,8 @@ const products = (rawProducts as any[]).map(p => ({
 
 const CART_KEY = "t-shop-cart";
 const ORDERS_KEY = "t-shop-orders";
-const TELEGRAM_USERNAME = "tasinahmed2508";
+const TELEGRAM_USERNAME = "tasinahmed2508";  // For order checkout link
+const SUPPORT_LINK = "https://t.me/tstoredigital250";  // Support & Questions
 
 const currency = new Intl.NumberFormat("en-BD");
 
@@ -358,7 +359,7 @@ function App() {
                 <span className="hero-tag"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> Trusted Seller</span>
                 <a
                   className="hero-tag solid"
-                  href={`https://t.me/${TELEGRAM_USERNAME}`}
+                  href={SUPPORT_LINK}
                   target="_blank"
                   rel="noreferrer"
                 >
