@@ -1,6 +1,14 @@
+import 'dotenv/config.js';
+import { config } from 'dotenv';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
 import cors from "cors";
 import express from "express";
 import TelegramBot from "node-telegram-bot-api";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+config({ path: join(__dirname, '.env.local') });
 
 const {
   BOT_TOKEN,
