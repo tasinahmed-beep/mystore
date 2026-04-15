@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "69acfe671b05057e8f96a94c",
+    "name": "Capcut Pro 35D Auto Renew is fully covered",
+    "description": "• Capcut Pro Team is valid for 35 days in Auto Renew form.\n• Due to the Team format, Capcut cannot be used on the web, Capcut can only be used on phones and PCs.\n• This form cannot change email or password.\n• Date displayed is 7d but after 7d the tool will automatically add it to the new Team until 35d is reached (customers do not need to do anything).\n• Full warranty in all cases, EXCEPT MAIL|PASS EXCHANGE",
+    "usageGuide": "Mọi người đăng nhập trên pc thì cần đăng nhập bằng email trên điện thoại trước -> Quét QR trên pc",
+    "usdPrice": 4,
+    "binancePrice": 4,
+    "binanceCustomerPays": 4,
+    "stock": 19,
+    "totalStock": 1587,
+    "sold": 1568,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/capcut-icon_724995af.png",
+    "emoji": "capcut",
+    "enriched": {
+      "description": "CapCut Pro Team subscription with 35-day auto-renew cycle. Works on mobile and desktop apps only (web version not supported). Credentials cannot be changed.",
+      "warranty": "Full warranty for the subscription period. Does not cover cases where email or password has been changed by the buyer.",
+      "refund": "Eligible for full replacement if the account stops working, provided original credentials are unchanged.",
+      "notes": [
+        "Shows as 7-day initially but auto-renews to a new team cycle until 35 days are reached - no action needed from you.",
+        "Only works on CapCut mobile and desktop apps, not the web editor."
+      ],
+      "useCases": [
+        "Video editing",
+        "Social media content creation",
+        "Reels and TikTok production"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/capcut-icon_724995af.png",
+    "upiCustomerPays": 528
+  },
+  {
+    "id": "69b0db798c6d0b6e14e0c703",
+    "name": "Veo3 Ultra 25k credit (no watermark) Credit guaranteed 24 hours",
+    "description": "If a watermark is detected, it can be changed\nThis product cannot be used for antigravity.\n\nRefunds will not be accepted because of not reading the description carefully",
+    "usageGuide": "",
+    "usdPrice": 5,
+    "binancePrice": 5,
+    "binanceCustomerPays": 5,
+    "stock": 25,
+    "totalStock": 4973,
+    "sold": 4948,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "emoji": "google",
+    "enriched": {
+      "description": "If a watermark is detected, it can be changed\nThis product cannot be used for antigravity.\n\nRefunds will not be accepted because of not reading the description carefully",
+      "warranty": "Standard warranty included.",
+      "refund": "Replacement provided if the product is non-functional within the warranty period.",
+      "notes": [],
+      "useCases": []
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "bulk_discount",
+        "minQty": 50,
+        "percent": 25
+      },
+      {
+        "type": "bulk_discount",
+        "minQty": 20,
+        "percent": 12.5
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "upiCustomerPays": 660
+  },
+  {
+    "id": "69b7d2365be098309adef4a5",
+    "name": "Veo3 + Anti Ultra 25K (no watermark) credit warranty 24 hours",
+    "description": "Note: This product can be used with anti, but the quality is not good, and often has the error of running out of quota. If you specialize in using Anti, you should buy the family slot version.\n\nRefunds will not be accepted if antigravity cannot be used due to an error from the anti's server",
+    "usageGuide": "",
+    "usdPrice": 5.5,
+    "binancePrice": 5.5,
+    "binanceCustomerPays": 5.5,
+    "stock": 39,
+    "totalStock": 5360,
+    "sold": 5321,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "emoji": "google",
+    "enriched": {
+      "description": "Note: This product can be used with anti, but the quality is not good, and often has the error of running out of quota. If you specialize in using Anti, you should buy the family slot version.\n\nRefunds will not be accepted if antigravity cannot be used due to an error from the anti's server",
+      "warranty": "Standard warranty included.",
+      "refund": "Replacement provided if the product is non-functional within the warranty period.",
+      "notes": [],
+      "useCases": []
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "bulk_discount",
+        "minQty": 50,
+        "percent": 30
+      },
+      {
+        "type": "bulk_discount",
+        "minQty": 20,
+        "percent": 15
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "upiCustomerPays": 726
+  },
+  {
+    "id": "69c6a3890091a420140ac75b",
+    "name": "Veo3 + Anti Ultra 25k (no watermark) 30-Day credit guarantee",
+    "description": "Note: This product can be used with anti, but the quality is not good, and often has the error of running out of quota.\n\nRefunds will not be accepted if antigravity cannot be used due to an error from the anti's server",
+    "usageGuide": "",
+    "usdPrice": 14,
+    "binancePrice": 14,
+    "binanceCustomerPays": 14,
+    "stock": 33,
+    "totalStock": 795,
+    "sold": 762,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "emoji": "google",
+    "enriched": {
+      "description": "Google Veo3 Ultra account with 25,000 credits and Antigravity access. Extended 30-day warranty period.",
+      "warranty": "30-day warranty covering the Veo3 account. Antigravity functionality is provided as-is.",
+      "refund": "Replacement available within 30 days if the Veo3 account becomes non-functional. No refunds for Antigravity-specific issues.",
+      "notes": [
+        "Same Antigravity limitations as the 24h version - quality may vary and quota errors can occur.",
+        "Best for users who need longer-term access to Veo3 with optional Antigravity."
+      ],
+      "useCases": [
+        "Extended AI video projects",
+        "Antigravity coding",
+        "Long-form content creation"
+      ]
+    },
+    "warrantyType": "configured_days",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/veo3_new_cb14e9a7.webp",
+    "upiCustomerPays": 1848
+  },
+  {
+    "id": "69d23dc65bd4cff017c7c1a0",
+    "name": "Admin Family Ultra 5 slots 25k Credit 1 Month 3 days warranty",
+    "description": "- 30TB Google Drive\n- Invite 5 more people to share\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 25K credits\nAll other gemini benefits\nPayment profile removed, can invite all countries",
+    "usageGuide": "Định dạng: Mail | Pass | email-verify | 2Fa\nPaste mã 2fa vào 2fa.live để lấy 1 time code",
+    "usdPrice": 43.5,
+    "binancePrice": 43.5,
+    "binanceCustomerPays": 43.5,
+    "stock": 0,
+    "totalStock": 25,
+    "sold": 25,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 25,000 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 25,000 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 5742
+  },
+  {
+    "id": "69b37cfb3375c05d9f35e8ae",
+    "name": "Slot Antigravity Ultra 0k Credit 1 month full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 0K credits\nAll other gemini benefits\nThis is a 0 credit item, so absolutely do not use credits. If you use them, you will be kicked and asked to pay a penalty fee based on the number of credits used before being invited again.",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán (xóa ở https://payments.google.com/gp/w/u/0/home/settings)",
+    "usdPrice": 17.5,
+    "binancePrice": 17.5,
+    "binanceCustomerPays": 17.5,
+    "stock": 57,
+    "totalStock": 252,
+    "sold": 195,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 0 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 0 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 2310
+  },
+  {
+    "id": "69d9ced06964fe6b98a5fc5a",
+    "name": "Slot Antigravity Ultra 5k Credit 1 month full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 5K credits\nAll other gemini benefits\nThis is a 5k credit item, so absolutely do not use more than the allowed number of credits. If you use too much, you will be kicked and asked to pay a penalty fee based on the number of credits used before being invited again.",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán (xóa ở https://payments.google.com/gp/w/u/0/home/settings)",
+    "usdPrice": 19.5,
+    "binancePrice": 19.5,
+    "binanceCustomerPays": 19.5,
+    "stock": 58,
+    "totalStock": 82,
+    "sold": 24,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 5,000 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 5,000 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 2574
+  },
+  {
+    "id": "69d9cfbe6964fe6b98a60823",
+    "name": "Slot Antigravity Ultra 12.5k Credit 1 Month full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 12.5K credits\nAll other gemini benefits\nThis is a 12.5k credit item, so absolutely do not use more than the allowed number of credits. If you use too much, you will be kicked and asked to pay a penalty fee based on the number of credits used before being invited again.",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán (xóa ở https://payments.google.com/gp/w/u/0/home/settings)",
+    "usdPrice": 29.5,
+    "binancePrice": 29.5,
+    "binanceCustomerPays": 29.5,
+    "stock": 15,
+    "totalStock": 15,
+    "sold": 0,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 12,500 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 12,500 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 3894
+  },
+  {
+    "id": "69d9d1606964fe6b98a62228",
+    "name": "Slot Antigravity Ultra 25k Credit 1 Month full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 25K credits\nAll other gemini benefits",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán (xóa ở https://payments.google.com/gp/w/u/0/home/settings)",
+    "usdPrice": 35,
+    "binancePrice": 35,
+    "binanceCustomerPays": 35,
+    "stock": 22,
+    "totalStock": 25,
+    "sold": 3,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 25,000 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 25,000 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 4620
+  },
+  {
+    "id": "69b2ee870dcf3cf24876874e",
+    "name": "Slot Antigravity Ultra 0 Credit 1 year full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 0K credits\nAll other gemini benefits",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán",
+    "usdPrice": 81,
+    "binancePrice": 81,
+    "binanceCustomerPays": 81,
+    "stock": 26,
+    "totalStock": 37,
+    "sold": 11,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 0 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-month full warranty.",
+      "warranty": "Full 1-month warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 0 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 10692
+  },
+  {
+    "id": "69abccda71d068be878173e2",
+    "name": "Slot Antigravity Ultra 5K Credit 1 year full warranty",
+    "description": "This is a family slot, need to provide gmail to the seller\n- 30TB Google Drive\n- Nano Banana Pro\n- Veo3.1 Fast [ lower Priority ] 0 credits\n- Antigravity Ultra\n- 5K credits\nAll other gemini benefits",
+    "usageGuide": "Sau khi thanh toán trên bot, vui lòng gửi ORDER... và gmail cho @namlc1 để add vào family. Đảm bảo:\n1. Đăng nhập antigravity trước \n2. Gmail phải chưa join family\n3. Gmail không có hồ sơ thanh toán (xóa ở https://payments.google.com/gp/w/u/0/home/settings)",
+    "usdPrice": 93.5,
+    "binancePrice": 93.5,
+    "binanceCustomerPays": 93.5,
+    "stock": 25,
+    "totalStock": 43,
+    "sold": 18,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "emoji": "antigravity",
+    "enriched": {
+      "description": "Premium Google Workspace family slot with Antigravity Ultra, 5,000 credits, 30TB Google Drive, Nano Banana Pro, and Veo3.1 Fast access. 5 slots included. 1-year full warranty.",
+      "warranty": "Full 1-year warranty. Complete replacement if the slot becomes inaccessible for any reason.",
+      "refund": "Full replacement guaranteed for the entire warranty period.",
+      "notes": [
+        "Includes 5 Workspace family slots, 5,000 AI credits, 30TB Google Drive, Nano Banana Pro, Veo3.1 Fast (lower priority, 0 credits), and all other Gemini benefits."
+      ],
+      "useCases": [
+        "Antigravity coding assistant",
+        "AI-powered development",
+        "Cloud storage",
+        "Full Google AI suite"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/antigravity_fa4b218c.png",
+    "upiCustomerPays": 12342
+  },
+  {
+    "id": "69dc6989701425eebab6e07f",
+    "name": "Super Grok — 3 Days Full Warranty",
+    "description": "Limited 3 days, full warranty",
+    "usageGuide": "",
+    "usdPrice": 3.8,
+    "binancePrice": 3.8,
+    "binanceCustomerPays": 3.8,
+    "stock": 5,
+    "totalStock": 25,
+    "sold": 20,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "emoji": "grok",
+    "enriched": {
+      "description": "Premium digital product with fast delivery. This is a ready-made account, not CDK.",
+      "warranty": "Full 3-day warranty. Replacement if account stops working.",
+      "refund": "Replacement within warranty. No refund for used credits.",
+      "notes": [
+        "Ready-made account included",
+        "Full access to all Super Grok features",
+        "Do not change email, password, or settings",
+        "Credentials provided on delivery — ready to use",
+        "3-day warranty period"
+      ],
+      "useCases": [
+        "Super Grok access",
+        "Premium features",
+        "Fast delivery"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "upiCustomerPays": 502
+  },
+  {
+    "id": "69b8f03e5be098309ae0eeb6",
+    "name": "Super Grok — 2 Months Full Warranty",
+    "description": "This is a ready-made account, not CDK",
+    "usageGuide": "Định dạng mail | pass-mail | pass-grok\nLOGIN EMAIL . CÁCH  CHECK DATE : \n1 - đăng nhập vào Grok.com\n2 - Vào web : https://grok.com/rest/subscriptions => Bôi đen và copy tất cả\n3- Dán toàn bộ dữ liệu vừa copy vào : https://grok.hminhhosting.io.vn/",
+    "usdPrice": 16.5,
+    "binancePrice": 16.5,
+    "binanceCustomerPays": 16.5,
+    "stock": 12,
+    "totalStock": 918,
+    "sold": 906,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "emoji": "grok",
+    "enriched": {
+      "description": "This is a ready-made account, not CDK. Premium digital product with extended warranty.",
+      "warranty": "Full 2-month warranty. Replacement if account stops working.",
+      "refund": "Replacement within warranty. No refund for used credits.",
+      "notes": [
+        "Ready-made account included",
+        "Full access to all Super Grok features",
+        "Do not change email, password, or settings",
+        "Credentials provided on delivery — ready to use",
+        "Extended 2-month warranty period"
+      ],
+      "useCases": [
+        "Super Grok access",
+        "Premium features",
+        "Extended warranty"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "upiCustomerPays": 2178
+  },
+  {
+    "id": "69c0c6758acef536c91af62c",
+    "name": "Super Grok 1 year warranty 6 months",
+    "description": "",
+    "usageGuide": "LOGIN EMAIL . CÁCH  CHECK DATE : \n1 - đăng nhập vào Grok.com\n2 - Vào web : https://grok.com/rest/subscriptions => Bôi đen và copy tất cả\n3- Dán toàn bộ dữ liệu vừa copy vào : https://grok.hminhhosting.io.vn/",
+    "usdPrice": 52,
+    "binancePrice": 52,
+    "binanceCustomerPays": 52,
+    "stock": 32,
+    "totalStock": 88,
+    "sold": 56,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "emoji": "grok",
+    "enriched": {
+      "description": "Pre-configured Super Grok account with full access for 1 year. Comes with 6-month warranty coverage.",
+      "warranty": "6-month warranty from date of delivery. Replacement provided if the account stops working within the warranty window.",
+      "refund": "Full replacement within the 6-month warranty period.",
+      "notes": [
+        "12-month subscription with 6 months of warranty protection."
+      ],
+      "useCases": [
+        "Long-term AI assistant access",
+        "Professional code generation",
+        "Research workflows"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grok_ac392da5.png",
+    "upiCustomerPays": 6864
+  },
+  {
+    "id": "69da3b76e9e2802cb2dfddde",
+    "name": "ElevenLabs Creator — 1 Month Full Warranty",
+    "description": "",
+    "usageGuide": "",
+    "usdPrice": 11.5,
+    "binancePrice": 11.5,
+    "binanceCustomerPays": 11.5,
+    "stock": 8,
+    "totalStock": 20,
+    "sold": 12,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/ElevenLabs_632492b4.jpg",
+    "emoji": "elevenlabs",
+    "enriched": {
+      "description": "Pre-configured ElevenLabs Creator account with 100K credits. Full access to voice generation, cloning, text-to-speech, and all Creator features.",
+      "warranty": "Full 1-month warranty. Replacement if account stops working.",
+      "refund": "Replacement within warranty. No refund for used credits.",
+      "notes": [
+        "100K generation credits included",
+        "All Creator features — voice gen, cloning, TTS, dubbing, sound effects",
+        "Do not change email, password, or settings",
+        "Credentials provided on delivery — ready to use"
+      ],
+      "useCases": [
+        "Voice generation",
+        "Voice cloning",
+        "Text-to-speech",
+        "Audio dubbing",
+        "Sound effects creation"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/ElevenLabs_632492b4.jpg",
+    "upiCustomerPays": 1518
+  },
+  {
+    "id": "69d52ff7bd70077686ef2f86",
+    "name": "CDK ChatGPT Plus 1 month",
+    "description": "This is CDK chatGPT Plus, can upgrade the owner, extremely low death rate of 1-2%.\n- Log in to GPT account on the web (can use PC or phone in web mode)\n- Open a new tab, paste this line: https://chatgpt.com/api/auth/session\n- It will display the token line, copy the entire token \n- Open a new tap and paste the address\nhttps://autosubai.com/\n\n+ Step 1: paste the key\n+ Step 2: Paste the Token\n+ Step 3: Confirm\n- 10 seconds and it's done",
+    "usageGuide": "- Đăng nhập acc GPT vào web (có thể dùng PC hoặc ĐT ở chế độ web)\n- Mở 1 tab mới, dán dòng này vào: https://chatgpt.com/api/auth/session\n- Nó sẽ hiện dòng token, copy toàn bộ token đó \n- mởi 1 tap mới dán địa chỉ\nhttps://autosubai.com/\n\n+ Bước 1: dán key\n+ Bước 2: Dán Token\n+ Bước 3: Xác nhận\n- 10s là xong",
+    "usdPrice": 4,
+    "binancePrice": 4,
+    "binanceCustomerPays": 4,
+    "stock": 249,
+    "totalStock": 2201,
+    "sold": 1951,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "emoji": "chatgpt",
+    "enriched": {
+      "description": "CDK ChatGPT Plus with owner upgrade capability. Extremely low death rate. Setup instructions: 1. Log in to GPT account on web (PC or phone). 2. Open new tab, paste: https://chatgpt.com/api/auth/session. 3. Copy the token. 4. Go to https://autosubai.com/. 5. Step 1: Paste key. 6. Step 2: Paste token. 7. Step 3: Confirm. Done in 10 seconds!",
+      "warranty": "24-hour warranty from delivery. Replacement provided if account becomes inaccessible.",
+      "refund": "Full replacement within 24 hours if the account is non-functional.",
+      "notes": [
+        "Owner upgrade capability included",
+        "Extremely low account death rate",
+        "Setup takes approximately 10 seconds",
+        "Works on web, mobile, and desktop"
+      ],
+      "useCases": [
+        "AI chat and writing",
+        "Code generation",
+        "Research and analysis",
+        "Content creation"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "bulk_discount",
+        "minQty": 50,
+        "percent": 8
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "upiCustomerPays": 528
+  },
+  {
+    "id": "69da458be9e2802cb2e0765d",
+    "name": "CDK Plus 1 Year 1 month warranty",
+    "description": "Package information:\nChatGPT Plus 1 year, date 2027.\nUse CDK to update date.\n30 days warranty.\nDuring the warranty period, if your account becomes free, PLEASE REUSE THE INCLUDED CDK: R_\n\nStep 1: Log in to the GPT account that needs to be upgraded on the web\nStep 2: Go to the website: https://receipt.nitro.xin/redeem/chatgpt, enter the previously purchased key in the first box and click check\nStep 3: go to the link: https://chatgpt.com/api/auth/session, copy everything and paste it into the second box then press check\nStep 4: Click start and wait for the website to upgrade the package\n\nNote: In case the deposit is completed successfully but the account has not been updated with the package, please try reloading the page a few times. If you still don't see changes, log out and log back in to update the system. Absolutely do not use another CDK code to top up, to avoid losing the code.\n--Pngoc--",
+    "usageGuide": "",
+    "usdPrice": 33.5,
+    "binancePrice": 33.5,
+    "binanceCustomerPays": 33.5,
+    "stock": 7,
+    "totalStock": 103,
+    "sold": 96,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "emoji": "chatgpt",
+    "enriched": {
+      "description": "CDK ChatGPT Plus with owner upgrade capability. Extremely low death rate. Setup instructions: 1. Log in to GPT account on web (PC or phone). 2. Open new tab, paste: https://chatgpt.com/api/auth/session. 3. Copy the token. 4. Go to https://autosubai.com/. 5. Step 1: Paste key. 6. Step 2: Paste token. 7. Step 3: Confirm. Done in 10 seconds!",
+      "warranty": "24-hour warranty from delivery. Replacement provided if account becomes inaccessible.",
+      "refund": "Full replacement within 24 hours if the account is non-functional.",
+      "notes": [
+        "Owner upgrade capability included",
+        "Extremely low account death rate",
+        "Setup takes approximately 10 seconds",
+        "Works on web, mobile, and desktop"
+      ],
+      "useCases": [
+        "AI chat and writing",
+        "Code generation",
+        "Research and analysis",
+        "Content creation"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "upiCustomerPays": 4422
+  },
+  {
+    "id": "69da684ae9e2802cb2e26913",
+    "name": "Kling AI 215 Credits — No Warranty",
+    "description": "Kling Al is the cheapest on the market. Sign in with email\nWarranty for login errors, package loss - return within 5 hours\nONLY FAILED CREDIT is issued - CREDIT CANNOT CREATE VIDEO is not valid - \nHow to change IP to use",
+    "usageGuide": "",
+    "usdPrice": 4,
+    "binancePrice": 4,
+    "binanceCustomerPays": 4,
+    "stock": 5,
+    "totalStock": 2366,
+    "sold": 2361,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/kling_06636371.jpg",
+    "emoji": "kling",
+    "enriched": {
+      "description": "Kling AI account with 215 credits for video and image generation. Cheapest Kling access on the market. Sign in with email.",
+      "warranty": "Login errors and undelivered accounts only — report within 5 hours.",
+      "refund": "No replacement for failed credits or video generation issues.",
+      "notes": [
+        "215 generation credits included",
+        "Sign in with provided email",
+        "No warranty on credit usage or generation quality",
+        "Login issues: report within 5 hours",
+        "Do not change credentials"
+      ],
+      "useCases": [
+        "AI video generation",
+        "Image generation",
+        "Video creation",
+        "Creative content"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 0,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/kling_06636371.jpg",
+    "upiCustomerPays": 528
+  },
+  {
+    "id": "chatgpt-business-admin",
+    "name": "ChatGPT Business - Admin Panel",
+    "description": "Pre-configured ChatGPT Business admin account with full access for 1 month. Ready to use immediately - complete account, no setup needed.",
+    "usageGuide": "Do not change email, password, or workspace settings. Credentials provided on delivery.",
+    "usdPrice": 6.57,
+    "binancePrice": 6.57,
+    "binanceCustomerPays": 6.57,
+    "stock": 0,
+    "totalStock": 0,
+    "sold": 6,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "emoji": "",
+    "enriched": {
+      "description": "Pre-configured ChatGPT Business admin account with full access for 1 month. Ready to use immediately - complete account, no setup needed.",
+      "warranty": "30-day warranty included.",
+      "refund": "Replacement provided if the product is non-functional within the warranty period.",
+      "notes": [],
+      "useCases": []
+    },
+    "warrantyType": "1 month full warranty",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "sold_count",
+        "value": 113
+      },
+      {
+        "badge": "Buy 3+ get 10% off",
+        "discountPercent": 10,
+        "discountedPrice": 4.5,
+        "minQty": 3,
+        "regularPrice": 5,
+        "type": "discount"
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "upiCustomerPays": 867
+  },
+  {
+    "id": "chatgpt-business-invite",
+    "name": "ChatGPT Business - Slot Invite",
+    "description": "Pre-configured ChatGPT Business workspace invite with full access for 1 month. Ready to use immediately - join via invite link, no setup needed.",
+    "usageGuide": "Do not change account credentials or workspace settings. Access is tied to the invite — do not leave the workspace.",
+    "usdPrice": 4.39,
+    "binancePrice": 4.39,
+    "binanceCustomerPays": 4.39,
+    "stock": 0,
+    "totalStock": 0,
+    "sold": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "emoji": "",
+    "enriched": {
+      "description": "Pre-configured ChatGPT Business workspace invite with full access for 1 month. Ready to use immediately - join via invite link, no setup needed.",
+      "warranty": "30-day warranty included.",
+      "refund": "Replacement provided if the product is non-functional within the warranty period.",
+      "notes": [],
+      "useCases": []
+    },
+    "warrantyType": "1 month full warranty",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "sold_count",
+        "value": 154
+      },
+      {
+        "badge": "Buy 5+ get 15% off",
+        "discountPercent": 15,
+        "discountedPrice": 2.13,
+        "minQty": 5,
+        "regularPrice": 2.5,
+        "type": "discount"
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChatGPT-Logo.png",
+    "upiCustomerPays": 579
+  },
+  {
+    "id": "grammarly-3month",
+    "name": "Grammarly Premium - 3 Month Code",
+    "description": "Redemption code for 3 months of Grammarly Pro. Activate on any Grammarly account - instant access to full premium features.",
+    "usageGuide": "1. Go to grammarly.com and sign in or create account\n2. Navigate to settings/account\n3. Redeem the code provided\n4. Activate 3-month premium subscription\n5. Enjoy AI-powered writing assistance across all platforms\n\nNote: Code is single-use and tied to the account you redeem it on.",
+    "usdPrice": 7,
+    "binancePrice": 7,
+    "binanceCustomerPays": 7,
+    "stock": 3,
+    "totalStock": 3,
+    "sold": 39,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grammarly-logo_656492f2.png",
+    "emoji": "grammarly",
+    "enriched": {
+      "description": "Redemption code for 3 months of Grammarly Pro. Activate on any Grammarly account - instant access to full premium features.",
+      "warranty": "Replacement provided if the code doesn't activate.",
+      "refund": "Full replacement if the code fails to activate.",
+      "notes": [
+        "3-month Grammarly Pro subscription via redemption code.",
+        "Activate on your own existing or new Grammarly account.",
+        "Code is single-use - once redeemed, it's tied to your account."
+      ],
+      "useCases": [
+        "AI-powered writing",
+        "Plagiarism detection",
+        "Tone optimization",
+        "Cross-platform access"
+      ]
+    },
+    "warrantyType": "Code Activation",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "badge": "Buy 5+ get 10% off",
+        "discountPercent": 10,
+        "discountedPrice": 3.6,
+        "minQty": 5,
+        "regularPrice": 4,
+        "type": "discount"
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/grammarly-logo_656492f2.png",
+    "upiCustomerPays": 924
+  },
+  {
+    "id": "ms365-office365-a1",
+    "name": "MS 365 Copilot - Office 365 A1 + 100GB OneDrive",
+    "description": "Pre-configured Office 365 A1 account with full suite access + Microsoft Copilot AI. Comes with 100GB OneDrive cloud storage. Temporary account - working for over a year.",
+    "usageGuide": "1. Login with provided credentials\n2. Verify your account in Microsoft 365\n3. Download Office apps or use web versions\n4. Start using Word, Excel, PowerPoint, Teams, Outlook\n5. Access 100GB OneDrive storage\n\nNote: Account is temporary. Do not store critical personal data. Backup important files regularly.",
+    "usdPrice": 11,
+    "binancePrice": 11,
+    "binanceCustomerPays": 11,
+    "stock": 999994,
+    "totalStock": 999994,
+    "sold": 6,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/microsoft365-office365-a1_3c965f32.png",
+    "emoji": "💼",
+    "enriched": {
+      "description": "Pre-configured Office 365 A1 account with full suite access + Microsoft Copilot AI. Comes with 100GB OneDrive cloud storage. Temporary account - working for over a year.",
+      "warranty": "6-month warranty from date of delivery. Replacement provided if the account stops working within the warranty window.",
+      "refund": "Full replacement within the 6-month warranty period.",
+      "notes": [
+        "Temporary account - do not store personal data.",
+        "Working reliably for 1+ year, but no permanence guarantee.",
+        "Includes Word, Excel, PowerPoint, Outlook, Teams, and Copilot AI."
+      ],
+      "useCases": [
+        "Office productivity",
+        "Cloud collaboration",
+        "Email and communication",
+        "AI-powered writing",
+        "Document creation"
+      ]
+    },
+    "warrantyType": "Account Stability",
+    "warrantyDays": 180,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "sold_count",
+        "value": 34
+      },
+      {
+        "badge": "Buy 3+ get 20% off",
+        "discountPercent": 20,
+        "discountedPrice": 4.4,
+        "minQty": 3,
+        "regularPrice": 5.5,
+        "type": "discount"
+      }
+    ],
+    "usdInrRate": 93.261159,
+    "localImage": "https://d2xsxph8kpxj0f.cloudfront.net/310519663267218932/FzUwD3wpkfHDYR8tPhrbYS/microsoft365-office365-a1_3c965f32.png",
+    "upiCustomerPays": 1452
+  },
+  {
+    "id": "github-student-4",
+    "name": "Github Student Verification - $4",
+    "description": "Student verification for Github Education. Reliable and fast.",
+    "usageGuide": "",
+    "usdPrice": 4,
+    "binancePrice": 4,
+    "binanceCustomerPays": 4,
+    "stock": 100,
+    "totalStock": 100,
+    "sold": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "emoji": "github",
+    "enriched": {
+      "description": "Student verification for Github Education. Reliable and fast.",
+      "warranty": "10-day warranty.",
+      "refund": "Replacement provided if verification fails.",
+      "notes": [
+        "Better on 10-day old accounts",
+        "May have ban risk within 1 month"
+      ],
+      "useCases": [
+        "Github Education",
+        "Verification"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 10,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "upiCustomerPays": 924
+  },
+  {
+    "id": "github-teacher-7",
+    "name": "Github Teacher Verification - $7",
+    "description": "Teacher verification for Github Education.",
+    "usageGuide": "",
+    "usdPrice": 7,
+    "binancePrice": 7,
+    "binanceCustomerPays": 7,
+    "stock": 100,
+    "totalStock": 100,
+    "sold": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "emoji": "github",
+    "enriched": {
+      "description": "Teacher verification for Github Education.",
+      "warranty": "10-day warranty.",
+      "refund": "Replacement provided if verification fails.",
+      "notes": [
+        "Better on 10-day old accounts",
+        "May have ban risk within 1 month"
+      ],
+      "useCases": [
+        "Github Education",
+        "Verification"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 10,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "upiCustomerPays": 1320
+  },
+  {
+    "id": "gemini-ai-pro-verification",
+    "name": "Gemini AI Pro Verification",
+    "description": "Gemini AI Pro account verification (12 months duration).\n\nInstructions for use:\n• Requires valid Google email\n• Password must be strong and unique\n• 2FA secret is required for account security\n• Verification requires reading the documentation\n• Region and age verification required\n• After subscription, change password and 2FA immediately\n• Do not share credentials after purchase\n\nImportant notes:\n• New accounts may trigger Google risk control (password/suspension risk)\n• Network latency may cause delays - please retry if connection fails\n• Family group accounts: Ensure no existing subscription in family",
+    "usageGuide": "Provide Google email, password, and 2FA secret to complete account setup. Follow all security instructions carefully.",
+    "usdPrice": 5,
+    "binancePrice": 5,
+    "binanceCustomerPays": 5,
+    "stock": 50,
+    "totalStock": 50,
+    "sold": 0,
+    "logo": "https://www.gstatic.com/images/branding/product/1x/gemini_2024_sparkle_128dp.png",
+    "emoji": "google",
+    "enriched": {
+      "description": "12-month Gemini AI Pro verification with full account access. Premium digital product.",
+      "warranty": "Account replacement if verification fails or account becomes non-functional within 30 days.",
+      "refund": "Replacement account provided if original account becomes unusable.",
+      "notes": [
+        "Requires secure password and 2FA setup",
+        "Change credentials immediately after purchase",
+        "May have regional restrictions",
+        "Account age verification required"
+      ],
+      "useCases": [
+        "Gemini AI access",
+        "AI content generation",
+        "Premium AI features"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png",
+    "upiCustomerPays": 660
+  },
+  {
+    "id": "manus-pro-official",
+    "name": "Manus Pro Official promo code",
+    "description": "1Year / 4,000 credits for 1 month / 1-year warranty\n\nImportant notes:\n• Credit card binding is required\n• Remember: Shipping the same card on multiple accounts may cause qualification issues\n• A fresh card is recommended for each checkout",
+    "usageGuide": "Visit manus.io/app to claim and activate your promo code",
+    "usdPrice": 80,
+    "binancePrice": 80,
+    "binanceCustomerPays": 80,
+    "stock": 5,
+    "totalStock": 5,
+    "sold": 0,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/manus-pro-icon.png",
+    "emoji": "manus",
+    "enriched": {
+      "description": "Official Manus Pro promotional code with 1-year access and 4,000 credits for first month.",
+      "warranty": "1-year warranty",
+      "refund": "Code replacement if invalid or unusable",
+      "notes": [
+        "Requires valid credit card binding",
+        "Use fresh card for multiple accounts",
+        "4,000 credits for first month only"
+      ],
+      "useCases": [
+        "AI video generation",
+        "Content creation",
+        "Professional video tools"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 365,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/manus.png",
+    "upiCustomerPays": 10560
+  },
+  {
+    "id": "google-account-us",
+    "name": "Google Account - USA 2020-2024",
+    "description": "Google account registered in the United States between 2020 and 2024.\n\nIncludes:\n• Recovery Email Included\n• 2FA Key Included\n\nAccount details provided for immediate use.",
+    "usageGuide": "Use provided credentials to log in to your Google account",
+    "usdPrice": 6,
+    "binancePrice": 6,
+    "binanceCustomerPays": 6,
+    "stock": 5,
+    "totalStock": 5,
+    "sold": 0,
+    "logo": "https://www.gstatic.com/images/branding/product/1x/googleg_standard_color_128dp.png",
+    "emoji": "google",
+    "enriched": {
+      "description": "USA-registered Google account (2020-2024) with recovery email and 2FA setup",
+      "warranty": "30-day account replacement guarantee",
+      "refund": "Replacement if account becomes inaccessible",
+      "notes": [
+        "Registered in United States",
+        "2020-2024 registration date",
+        "Recovery email included for account recovery",
+        "2FA key provided for secure access"
+      ],
+      "useCases": [
+        "Google services access",
+        "Gmail",
+        "Google Drive and other Google products"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png",
+    "upiCustomerPays": 792
+  },
+  {
+    "id": "claude-gpt-api-keys",
+    "name": "Claude and GPT API Keys",
+    "description": "Premium API keys for both Claude (Anthropic) and GPT (OpenAI).\n\nTier options:\n• Starter: $10 / Standard: $30 / Premium: $50\n\nIncludes:\n• api.key.txt file with all credentials\n• Full documentation for setup\n• Technical support for integration",
+    "usageGuide": "Access api.key.txt file included in delivery for API credentials and setup instructions",
+    "usdPrice": 13,
+    "binancePrice": 13,
+    "binanceCustomerPays": 13,
+    "stock": 13,
+    "totalStock": 13,
+    "sold": 0,
+    "logo": "https://d2xsxph8kpxj0f.cloudfront.net/api-keys-icon.png",
+    "emoji": "key",
+    "enriched": {
+      "description": "Premium Claude and GPT API keys with flexible tier options starting from Starter to Premium",
+      "warranty": "30-day API key replacement if key becomes invalid",
+      "refund": "Replacement keys provided if original keys fail",
+      "notes": [
+        "Multiple tier options available",
+        "Starter ($10), Standard ($30), Premium ($50)",
+        "Instant delivery of API credentials",
+        "Full documentation included"
+      ],
+      "useCases": [
+        "AI application development",
+        "Chatbot integration",
+        "Content generation API access",
+        "LLM integration projects"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [
+      {
+        "type": "tier_pricing",
+        "description": "Standard $30, Premium $50 available"
+      }
+    ],
+    "localImage": "https://images.seeklogo.com/logo-png/55/1/claude-logo-png_seeklogo-554540.png",
+    "upiCustomerPays": 1716
+  },
+  {
+    "id": "gemini-ai-pro-18mon-link",
+    "name": "Gemini AI Pro 18 Month Link",
+    "description": "Official Google One offer URL for Gemini AI Pro.\n\nFeatures:\n• Official Google One offer URL\n• Eligible for accounts without an active Pro subscription\n• No credit card required\n• Instant claim and use after purchase\n• 18 months of premium access",
+    "usageGuide": "Use the provided Google One offer link to claim your Gemini AI Pro subscription instantly",
+    "usdPrice": 14,
+    "binancePrice": 14,
+    "binanceCustomerPays": 14,
+    "stock": 8,
+    "totalStock": 8,
+    "sold": 0,
+    "logo": "https://www.gstatic.com/images/branding/product/1x/gemini_2024_sparkle_128dp.png",
+    "emoji": "google",
+    "enriched": {
+      "description": "Official 18-month Gemini AI Pro access via Google One offer link",
+      "warranty": "Link replacement if claim fails",
+      "refund": "New offer link provided if original cannot be claimed",
+      "notes": [
+        "No credit card required",
+        "Works for new and existing accounts without active Pro",
+        "Instant claim after purchase",
+        "Official Google One offer"
+      ],
+      "useCases": [
+        "Gemini AI access",
+        "AI content generation",
+        "Premium AI features for 18 months"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 7,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png",
+    "upiCustomerPays": 1848
+  },
+  {
+    "id": "gemini-pixel-12month-acc",
+    "name": "Gemini Pixel 12 Months ACC",
+    "description": "Gemini AI Pro 1-Year Account with Pixel integration.\n\nAccount features:\n• Full Gemini AI Pro 1-Year Access\n• 2FA verification included\n• Web2FA setup ready\n\nImportant:\nIf your account does not have PRO privileges or you are unable to log in, please contact support to request a new account.",
+    "usageGuide": "Use provided credentials to access full Gemini AI Pro features for 12 months",
+    "usdPrice": 9,
+    "binancePrice": 9,
+    "binanceCustomerPays": 9,
+    "stock": 8,
+    "totalStock": 8,
+    "sold": 0,
+    "logo": "https://www.gstatic.com/images/branding/product/1x/gemini_2024_sparkle_128dp.png",
+    "emoji": "google",
+    "enriched": {
+      "description": "Gemini AI Pro account with 1-year access and Pixel device integration",
+      "warranty": "Account replacement if PRO access fails",
+      "refund": "Full replacement account provided if access issues occur",
+      "notes": [
+        "Includes 2FA verification",
+        "Web2FA setup included",
+        "Full Gemini AI Pro features",
+        "12-month duration",
+        "Contact support for PRO privilege issues"
+      ],
+      "useCases": [
+        "Gemini AI Pro access",
+        "Pixel device integration",
+        "Premium AI features"
+      ]
+    },
+    "warrantyType": "end_of_day",
+    "warrantyDays": 30,
+    "isSlotProduct": false,
+    "slotDurations": [],
+    "promotions": [],
+    "localImage": "https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png",
+    "upiCustomerPays": 1188
+  }
+]
