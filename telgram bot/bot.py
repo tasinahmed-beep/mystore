@@ -11,8 +11,10 @@ from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-# Load .env.local if it exists (for local development)
-load_dotenv('.env.local', override=False)
+# Load .env.local only if running locally (file exists and not in Docker)
+if os.path.exists('.env.local') and not os.path.exists('/.dockerenv'):
+    load_dotenv('.env.local', override=False)
+    print("📄 Loaded .env.local from local development")
 
 # Enable logging
 logging.basicConfig(
@@ -64,9 +66,18 @@ def main() -> None:
     """Start the bot."""
     
     # Get token from environment
-    token = os.getenv("TELEGRAM_BOT_TOKEN")
-    if not token:
-        raise ValueError("❌ TELEGRAM_BOT_TOKEN environment variable not set")
+    token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
+    
+    if not token or "OWNER_CHAT_ID" in token:
+        raise ValueError(
+            "❌ Invalid TELEGRAM_BOT_TOKEN environment variable.\n"
+            "Expected format: 8733289509:AAEZaj...\n"
+            f"Got: {token[:50]}..." if token else "Not set"
+        )
+    
+    # Validate token format (should be number:string)
+    if ":" not in token:
+        raise ValueError(f"❌ Invalid token format: {token[:50]}...")
     
     # Create the Application
     application = Application.builder().token(token).build()
